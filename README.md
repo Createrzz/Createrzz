@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mosin Ahemad Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![OIG2](https://github.com/Createrzz/Createrzz/assets/142434708/9b0d0255-11da-4c7e-866b-8bf08cfb64fe)
 
 - 🌱 I’m currently learning **Frontened Development**
 
